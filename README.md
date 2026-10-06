@@ -11,7 +11,7 @@ Deep midnight-blue mosaic tiles, pale blue motifs, and cool blue interface accen
 For **Omarchy 4 with Omarchy Shell**:
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-midnight-slate-dark-mosaic-theme
+omarchy theme install https://github.com/erikrjohansson/omarchy-midnight-slate-dark-mosaic-theme
 ```
 
 Use `omarchy theme bg next` to switch between the logo and wordmark wallpapers.
