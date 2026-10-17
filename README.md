@@ -4,8 +4,6 @@ Deep midnight-blue mosaic tiles, pale blue motifs, and cool blue interface accen
 
 ![Midnight Slate Dark Mosaic — desktop preview with the wordmark wallpaper](preview.png)
 
-![Midnight Slate Dark Mosaic — desktop preview with the logo wallpaper](preview-logo.png)
-
 ## Install
 
 For **Omarchy 4 with Omarchy Shell**:
